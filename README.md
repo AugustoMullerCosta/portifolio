@@ -1,8 +1,8 @@
-# Portfólio – Sobre Mim
+# Portfólio 
 
 Este projeto faz parte do meu portfólio pessoal e tem como objetivo apresentar um pouco sobre minha trajetória profissional e perfil como programador.
 
-A página **Sobre Mim** foi desenvolvida utilizando HTML e CSS, com foco em estrutura semântica, organização do código e boas práticas de desenvolvimento front-end.
+A página foi desenvolvida utilizando HTML e CSS, com foco em estrutura semântica, organização do código e boas práticas de desenvolvimento front-end.
 
 ---
 
