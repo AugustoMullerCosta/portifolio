@@ -25,8 +25,3 @@ O projeto foi pensado para ser leve, direto e fácil de manter, servindo como ba
 - Layout responsivo
 - Estrutura semântica
 
----
-
-## 📂 Estrutura do Projeto
-
-git 
